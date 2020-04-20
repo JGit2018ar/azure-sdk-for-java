@@ -46,6 +46,6 @@ stages:
         - name: azure-data-sdk-parent
           groupId: com.azure
           safeName: azuredatasdkparent
-        - name: azuresdkparent
+        - name: azure-sdk-parent
           groupId: com.azure
           safeName: azuresdkparent
